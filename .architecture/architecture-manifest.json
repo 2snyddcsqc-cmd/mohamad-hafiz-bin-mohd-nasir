@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "1.0",
+  "project": "mohamad hafiz ",
+  "archetype": "data-analytics",
+  "archetypeLabel": "Data & Analytics Platform",
+  "createdAt": "2026-07-26",
+  "author": "enter",
+  "status": "draft",
+  "artefacts": [
+    {
+      "path": "00-core/core-ask.md",
+      "type": "document"
+    },
+    {
+      "path": "00-core/thinking.md",
+      "type": "document"
+    },
+    {
+      "path": "01-discovery/requirements.md",
+      "type": "document"
+    },
+    {
+      "path": "01-discovery/data-sources.md",
+      "type": "document"
+    },
+    {
+      "path": "01-discovery/data-lineage.md",
+      "type": "document"
+    },
+    {
+      "path": "02-design/high-level-solution.md",
+      "type": "document"
+    },
+    {
+      "path": "02-design/ingestion-design.md",
+      "type": "document"
+    },
+    {
+      "path": "02-design/pipeline-flows.md",
+      "type": "document"
+    },
+    {
+      "path": "02-design/storage-tiers.md",
+      "type": "document"
+    },
+    {
+      "path": "03-adrs/README.md",
+      "type": "adr"
+    },
+    {
+      "path": "03-adrs/0001-initial-architectural-decisions.md",
+      "type": "adr"
+    },
+    {
+      "path": "04-cloud/lakehouse-topology.md",
+      "type": "document"
+    },
+    {
+      "path": "04-cloud/access-control-matrix.md",
+      "type": "document"
+    },
+    {
+      "path": "04-cloud/sla-mapping.md",
+      "type": "document"
+    },
+    {
+      "path": "master-architecture.md",
+      "type": "document"
+    }
+  ]
+}
